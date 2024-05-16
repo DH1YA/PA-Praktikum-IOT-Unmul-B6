@@ -35,5 +35,5 @@ Perangkat ini dirancang untuk dapat memantau kondisi rumah dengan pintu rumah ya
 **Skema Perangkat :**
 
 ![alt text](Perangkat1.jpg)
-![alt text](Perangkat2.jpg)
+![alt text](Perangkat2_Skema.jpg)
 
