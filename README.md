@@ -34,9 +34,6 @@ Perangkat ini dirancang untuk dapat memantau kondisi rumah dengan pintu rumah ya
 
 **Skema Perangkat :**
 
-![alt text](Skema.jpg)
+![alt text](Perangkat1.jpg)
+![alt text](Perangkat2.jpg)
 
-
-**Rangkaian :**
-
-![alt text](https://github.com/DH1YA/POSTTEST-4---PRAKTIUM-IOT---UNMUL/blob/main/Rangkaian%20Posttest4.jpg)
